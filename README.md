@@ -23,8 +23,3 @@ My name is <strong>Douglas</strong>. I am an artificial intelligence and machine
 <a href="https://www.linkedin.com/in/douglas-sammur/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href=""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
 <a href="https://twitter.com/s4turnuz"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-
-##
-<h3 align="center">My activity ⤵️</h3>
-  
-![Snake animation](https://github.com/s4turnuz/s4turnuz/blob/output/github-contribution-grid-snake.svg)
