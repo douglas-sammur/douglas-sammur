@@ -7,11 +7,11 @@ My name is <strong>Douglas</strong>. I am an artificial intelligence and machine
 </p>
 
 <p align="left">
-  ♣️ Langs: <strong>Python, C#, SQL</strong>
+  ♣️ Langs: <strong>R, Python, C#, SQL</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>PyCharm, VSCode, Visual Studio, Azure, Data Warehouse</strong>
+  💼 Tools: <strong>RStudio, Anaconda, VSCode, Visual Studio, Azure</strong>
 </p>
 
 <br>
